@@ -1,0 +1,12 @@
+.editor-wrapper {
+	z-index: 1;
+	display: flex;
+	flex-direction: row-reverse;
+	user-select: none;
+}
+
+.editor-contianer {
+  height: 100vh;
+  // height: calc(100vh - 114px);
+	width: 40vw;
+}
